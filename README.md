@@ -1,6 +1,6 @@
 # Java: trabalhando com listas e coleções de dados
 
-Este repositório contém o código e exercícios do curso **[Java: consumindo API, gravando arquivos e lidando com erros]((https://cursos.alura.com.br/course/java-consumindo-api-gravando-arquivos-lidando-erros))** da trilha **[Aprenda a programar em Java com Orientação a Objetos](https://cursos.alura.com.br/formacao-java)** da plataforma Alura.  
+Este repositório contém o código e exercícios do curso **[Java: consumindo API, gravando arquivos e lidando com erros](https://cursos.alura.com.br/course/java-consumindo-api-gravando-arquivos-lidando-erros)** da trilha **[Aprenda a programar em Java com Orientação a Objetos](https://cursos.alura.com.br/formacao-java)** da plataforma Alura.  
 
 ## Conteúdo do Curso
 
