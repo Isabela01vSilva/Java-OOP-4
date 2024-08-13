@@ -18,7 +18,7 @@ import java.util.List;
 import java.util.Scanner;
 
 public class PrincipalComBusca {
-    public static void main(String[] args) throws IOException, InterruptedException, IllegalAccessException {
+    public static void main(String[] args) throws IOException, InterruptedException {
 
         Scanner leitura = new Scanner(System.in);
         String busca = "";
